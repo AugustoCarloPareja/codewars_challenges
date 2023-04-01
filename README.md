@@ -2,7 +2,7 @@
 
 Welcome, codernaut!
 
-In this repository, you will find some solutions for random challenges. 
+In this repository, you will find some solutions for random `python` challenges. 
 
 It will be displayed by folders of rank levels (a.k.a. `Kyu` / `Dan`). As codewars docs says:
 
