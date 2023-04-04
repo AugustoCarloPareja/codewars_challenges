@@ -21,6 +21,8 @@ You can find some easy challenges, and other more "challenging" ones 😄. Also,
 
 Also, feel free to fork and add your own challenges or any suggestions.
 
+Thanks for watching and...
+
 Happy coding! 😎
 
 ![codewars_banner](codewars_banner.png)
