@@ -21,6 +21,7 @@ def rps(p1, p2):
 
 ---
 
+
 ## Solution 1
 ```python
 def rps(p1, p2):
