@@ -57,4 +57,6 @@ def odd_or_even(arr):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/5949481f86420f59480000e7)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/7_kyu/Odd_or_Even.py)
+
 
