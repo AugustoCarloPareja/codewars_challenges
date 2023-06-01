@@ -9,6 +9,7 @@ def solution(s):
     return string
 
 if __name__ == '__main__':
-    print(solution('breakCamelCase'))
-    print(solution('yearLastWeekBig'))
-    print(solution('fewChildEyeGreat'))
+    strings = ['breakCamelCase', 'yearLastWeekBig', 'fewChildEyeGreat']
+    
+    for string in strings:
+        print(f"\nString: {string}\nSolution: {solution(string)}\n")

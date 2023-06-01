@@ -8,9 +8,11 @@ def high(word_string):
     return max(word_string.split(), key=get_value)
 
 if __name__ == '__main__':
-    word = 'qytidud tfgsboulu bcotde scsxigulft atmkeavo qhfrlug rrozrmrjd jolnkw mqymeonz ayspegyf'
-    print(f"The highest word high in '{word}' is {high(word)}")
-    word = 'nzeuuw zjqsaidfn efqwj mqdncge onpuyy hfbich fkzbcedddk'
-    print(f"The highest word high in '{word}' is {high(word)}")
-    word = 'shcrl irrresk gfieoi xao hcfldkqmtq qaggbsatc pumo dcei'
-    print(f"The highest word high in '{word}' is {high(word)}")
+    words = [
+        'qytidud tfgsboulu bcotde scsxigulft atmkeavo qhfrlug rrozrmrjd jolnkw mqymeonz ayspegyf',
+        'nzeuuw zjqsaidfn efqwj mqdncge onpuyy hfbich fkzbcedddk',
+        'shcrl irrresk gfieoi xao hcfldkqmtq qaggbsatc pumo dcei'
+    ]
+    
+    for word in words:
+        print(f"The highest word high in '{word}' is {high(word)}")

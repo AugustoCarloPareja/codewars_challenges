@@ -26,14 +26,16 @@ def persistence_2(n):
         return persistence_2(iterations) + 1
 
 if __name__ == '__main__':
-    print("Solution 1")
-    num = 39
-    print(f"The multiplicative persistence of {num} is {persistence_1(num)}")
-    num = 4
-    print(f"The multiplicative persistence of {num} is {persistence_1(num)}")
-    print("\nSolution 2")
-    num = 25
-    print(f"The multiplicative persistence of {num} is {persistence_2(num)}")
-    num = 999
-    print(f"The multiplicative persistence of {num} is {persistence_2(num)}")
+    nums = [39, 4, 25, 999]
+    
+    for num in nums:
+        print(
+            f"""
+            Solution 1:
+            The multiplicative persistence of {num} is {persistence_1(num)}
+            
+            Solution 2:
+            The multiplicative persistence of {num} is {persistence_2(num)}
+            """
+        )
 
