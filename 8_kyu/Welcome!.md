@@ -75,3 +75,4 @@ def greet(language):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/Welcome!.py)

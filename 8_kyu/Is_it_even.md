@@ -30,3 +30,4 @@ def is_even(n):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/Is_it_even.md)

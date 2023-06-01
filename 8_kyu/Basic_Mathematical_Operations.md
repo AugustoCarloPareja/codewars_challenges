@@ -39,3 +39,4 @@ def basic_op(operator, value1, value2):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/Basic_Mathematical_Operations.py)

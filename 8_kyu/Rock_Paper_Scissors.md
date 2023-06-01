@@ -39,3 +39,4 @@ def rps(p1, p2):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/Rock_Paper_Scissors.py)

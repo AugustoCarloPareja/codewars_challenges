@@ -41,3 +41,4 @@ def double_char(s):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/Double_Char.py)

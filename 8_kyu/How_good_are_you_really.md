@@ -29,3 +29,4 @@ def better_than_average(class_points, your_points):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/5601409514fc93442500010b)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/8_kyu/How_good_are_you_really.py)
