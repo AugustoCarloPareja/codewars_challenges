@@ -49,3 +49,4 @@ def tower_builder(n_floors):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/6_kyu/Build_Tower.py)

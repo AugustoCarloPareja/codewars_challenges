@@ -37,3 +37,4 @@ def high(word_string):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/6_kyu/Highest_Scoring_Word.py)

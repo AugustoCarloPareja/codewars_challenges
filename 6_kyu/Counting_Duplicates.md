@@ -62,3 +62,4 @@ def duplicate_count(text):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/6_kyu/Counting_Duplicates.py)

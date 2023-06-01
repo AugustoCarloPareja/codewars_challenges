@@ -56,7 +56,7 @@ def persistence(n):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
-
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/6_kyu/Persistent_Bugger.py)
 
 
 

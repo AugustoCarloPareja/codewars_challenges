@@ -53,5 +53,5 @@ def dig_pow(n, p):
 ---
 
 - [Click to check challenge in CodeWars](https://www.codewars.com/kata/5552101f47fc5178b1000050)
-
+- [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/6_kyu/Playing_with_digits.py)
 
