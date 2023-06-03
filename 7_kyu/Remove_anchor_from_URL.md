@@ -27,5 +27,5 @@ def remove_url_anchor(url):
 
 ---
 
-- [Click to check challenge in CodeWars](https://www.codewars.com/kata/51f2b4448cadf20ed000038)
+- [Click to check challenge in CodeWars](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 - [Click to check a python sample in this repo](https://github.com/AugustoCarloPareja/codewars_challenges/blob/master/7_kyu/Remove_anchor_from_URL.py)
