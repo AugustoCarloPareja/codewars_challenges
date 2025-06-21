@@ -23,6 +23,6 @@ Also, feel free to fork and add your own challenges or any suggestions.
 
 Thanks for watching and...
 
-Happy coding! 😎 👍
+Happy coding! 😎
 
 ![codewars_banner](codewars_banner.png)
